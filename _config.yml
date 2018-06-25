@@ -91,7 +91,5 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
-    zhuxiaoyi: git@zhuxiaoyi.com:/var/www/blog/blog.git
-    github: git@github.com:Bruce-zxy/bruce-zxy.github.io.git
+  repo: git@github.com:Bruce-zxy/bruce-zxy.github.io.git
   branch: master
